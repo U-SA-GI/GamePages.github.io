@@ -3,7 +3,7 @@ var FPS = 100; //秒間フレーム数
 var SCREEN_WIDTH = 800;
 var SCREEN_HEIGHT = 480;
 
-var BUTTON_COLOR = "#777777";
+var BUTTON_COLOR = "#ff0000";
 
 
 var deck = [];
