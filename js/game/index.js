@@ -8,7 +8,7 @@ var button_posX = 120;
 var button_posY = 20;
 
 var BUTTON_COLOR = "#777777";
-var game_page_arr = [["POKER","poker.html"],["POKER","poker.html"]];
+var game_page_arr = [["POKER","poker.html"],["TEST","poker.html"]];
 
 var background;
 var game_button = [];
